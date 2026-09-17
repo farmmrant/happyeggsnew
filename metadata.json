@@ -1,0 +1,6 @@
+{
+  "name": "Portal Laporan Terpadu",
+  "description": "Web induk terpusat untuk memantau, mengelola, dan menyematkan laporan dari berbagai platform dan situs web eksternal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
